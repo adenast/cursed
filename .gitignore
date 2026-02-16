@@ -1,0 +1,13 @@
+/target/
+Cargo.lock
+/build/
+/.mesonpy.libs/
+/subprojects/*
+!/subprojects/*.wrap
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+/config.local
+/test_logs/
